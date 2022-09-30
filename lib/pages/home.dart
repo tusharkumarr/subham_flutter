@@ -292,14 +292,6 @@ class homepage extends StatelessWidget{
                       title: Text("Rent Product"),
                       onTap: (){},
                     ),
-
-
-
-
-
-
-
-                    
                   ],
                   
                 ),
